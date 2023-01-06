@@ -1,6 +1,6 @@
 {
-  "name": "editorjs-tooltip",
-  "version": "1.1.12",
+  "name": "@or/editorjs-tooltip",
+  "version": "1.0.0",
   "keywords": [
     "tool",
     "tooltip",
@@ -17,17 +17,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kommitters/editorjs-tooltip.git"
+    "url": "https://github.com/BensenHsu/editorjs-tooltip.git"
   },
   "author": {
-    "name": "kommitters Open Source",
-    "email": "oss@kommit.co"
+    "name": "Bensen Hsu",
+    "email": "593783125bh@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kommitters/editorjs-tooltip/issues"
+    "url": "https://github.com/BensenHsu/editorjs-tooltip/issues"
   },
-  "homepage": "https://github.com/kommitters/editorjs-tooltip#readme",
+  "homepage": "https://github.com/BensenHsu/editorjs-tooltip#readme",
   "devDependencies": {
     "@babel/core": "^7.15.5",
     "@babel/preset-env": "^7.15.6",
