@@ -1,6 +1,6 @@
 {
-  "name": "@or/editorjs-tooltip",
-  "version": "1.0.2",
+  "name": "@bensenhsu/editorjs-tooltip",
+  "version": "1.0.3",
   "keywords": [
     "tool",
     "tooltip",
