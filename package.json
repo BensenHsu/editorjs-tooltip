@@ -1,6 +1,6 @@
 {
   "name": "@bensenhsu/editorjs-tooltip",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [
     "tool",
     "tooltip",
@@ -53,5 +53,8 @@
       "^.+\\.jsx?$": "babel-jest",
       "^.+\\.(css|svg)$": "<rootDir>/test/config/assetsTransform.js"
     }
+  },
+  "dependencies": {
+    "@codexteam/icons": "^0.2.0"
   }
 }

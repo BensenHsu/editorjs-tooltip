@@ -1,5 +1,5 @@
 import './index.css';
-import tooltipIcon from '../assets/tooltipIcon.svg';
+import { IconQuote } from '@codexteam/icons';
 
 /**
  * Tooltip for the Editor.js.
@@ -201,7 +201,7 @@ export default class Tooltip {
   render() {
     this.button = document.createElement('button');
     this.button.type = 'button';
-    this.button.innerHTML = tooltipIcon;
+    this.button.innerHTML = IconQuote;
     const { inlineToolButton } = this.api.styles;
     this.button.classList.add(inlineToolButton);
 
